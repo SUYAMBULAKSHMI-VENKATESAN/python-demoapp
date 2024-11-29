@@ -68,7 +68,7 @@ The app runs under Flask and listens on port 5000 by default, this can be change
 
 # Containers
 
-Public container image is [available on GitHub Container Registry](https://github.com/users/benc-uk/packages/container/package/python-demoapp)
+Public container image is [available on GitHub Container Registry](https://github.com/users/SUYAMBULAKSHMI-VENKATESAN/packages/container/package/python-demoapp)
 
 Run in a container with:
 
